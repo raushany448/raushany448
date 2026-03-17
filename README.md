@@ -4,11 +4,6 @@ Aspiring **Python Developer | Data Scientist | Data Analyst** with hands-on expe
 
 ---
 
-## 📫 Contact
-- **Location:** Pune, India  
-- **Phone:** 9142128112  
-- **Email:** raushany448@gmail.com  
-- [LinkedIn](https://www.linkedin.com/in/raushar-kumar-194410314/) | [GitHub](https://github.com/raushany448) | [HackerRank](https://www.hackerrank.com/profile/raushany448)
 
 ---
 
